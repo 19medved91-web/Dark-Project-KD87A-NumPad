@@ -3,7 +3,7 @@
 Оперативно отвечаю на [форуме 4PDA](https://4pda.to/forum/index.php?showtopic=1127427)
 
 
-##![Скриншоты MCC]
+##Скриншоты [MCC] 
 (<img width="2559" height="1390" alt="image" src="https://github.com/user-attachments/assets/90992f04-728b-46ba-86f5-510cbef2b99a" />
 <img width="2559" height="1387" alt="image" src="https://github.com/user-attachments/assets/045e95c3-6357-4d1f-8301-9b77ebbb9144" />
 <img width="2559" height="1385" alt="image" src="https://github.com/user-attachments/assets/8cb2e0bf-8f39-47af-b5e2-4d4f411f7148" />
