@@ -1,6 +1,6 @@
 # ПО для Dark Project KD87A MEDVED — кастомная прошивка
 
-Оперативно отвечаю на форусе 4pda https://4pda.to/forum/index.php?showtopic=1127427#entry145411912
+Оперативно отвечаю на [форуме 4PDA](https://4pda.to/forum/index.php?showtopic=1127427)
 
 Скриншоты MCC:
 <img width="2559" height="1390" alt="image" src="https://github.com/user-attachments/assets/90992f04-728b-46ba-86f5-510cbef2b99a" />
