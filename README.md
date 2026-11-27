@@ -13,15 +13,14 @@
 <img width="2555" height="1386" alt="image" src="https://github.com/user-attachments/assets/9a7b3afb-9e75-4489-8be8-78f3aa3f4ab8" />
 <img width="2559" height="1392" alt="image" src="https://github.com/user-attachments/assets/dd3b8f10-33e2-4499-9c68-c33085089ac2" />
 <img width="2559" height="1385" alt="image" src="https://github.com/user-attachments/assets/b1545f85-357a-48c3-8658-74b70820f73d" />)
+</details>
 
 ## Форматы файлов прошивок
-
-## Форматы файлов
-
 Прошивки идут в двух видах, тип определяется по расширению файла:
 - клавиатура KD87A — `.md`
 - нумпад — `.nmd`
 
+## Форматы файлов
 Игровые банки хранятся в файлах `.gmd`.
 
 Это фирменные форматы MCC — не переименовывайте и не меняйте расширения,
