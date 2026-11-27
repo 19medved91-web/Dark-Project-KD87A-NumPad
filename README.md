@@ -3,7 +3,7 @@
 Оперативно отвечаю на [форуме 4PDA](https://4pda.to/forum/index.php?showtopic=1127427)
 
 
-##Скриншоты <details> <summary> ![MCC] 
+##Скриншоты <summary>![MCC] 
 (<img width="2559" height="1390" alt="image" src="https://github.com/user-attachments/assets/90992f04-728b-46ba-86f5-510cbef2b99a" />
 <img width="2559" height="1387" alt="image" src="https://github.com/user-attachments/assets/045e95c3-6357-4d1f-8301-9b77ebbb9144" />
 <img width="2559" height="1385" alt="image" src="https://github.com/user-attachments/assets/8cb2e0bf-8f39-47af-b5e2-4d4f411f7148" />
@@ -13,7 +13,7 @@
 <img width="2555" height="1386" alt="image" src="https://github.com/user-attachments/assets/9a7b3afb-9e75-4489-8be8-78f3aa3f4ab8" />
 <img width="2559" height="1392" alt="image" src="https://github.com/user-attachments/assets/dd3b8f10-33e2-4499-9c68-c33085089ac2" />
 <img width="2559" height="1385" alt="image" src="https://github.com/user-attachments/assets/b1545f85-357a-48c3-8658-74b70820f73d" />)
-</details>
+</summary>
 
 ## Форматы файлов прошивок
 Прошивки идут в двух видах, тип определяется по расширению файла:
